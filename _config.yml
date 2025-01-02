@@ -323,19 +323,3 @@ defaults:
       comments: # true
       share: true
       related: true
-  # _Debug
-  - scope:
-      path: ""
-      type: Debug
-    values:
-      layout: single
-      author_profile: false
-      share: true
-      related: false
-
-
-# Collections
-collections:
-  Debug:
-    output: true
-    permalink: /:collection/:path/
