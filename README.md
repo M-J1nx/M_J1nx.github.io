@@ -9,7 +9,7 @@ Since I'll keep studying, there can be wrong information. Please let me know if 
 - Algorithm
 - Back-end
 - Cloud
-- Debug
+- Debugging
 - Front-end
 - Security
 - Unity
