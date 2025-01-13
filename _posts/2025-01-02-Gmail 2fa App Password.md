@@ -2,16 +2,9 @@
 title:  "Gmail 2fa App Password"
 excerpt: "Blocked by 2FA Error when I making program that can send emails."
 categories: 
-- Algorithm
-- Back-end
-- Cloud
-- Front-end
-- Game
-- Git & Github
-- Security
+BackEnd
 tags:
-- Debug
-- Theory
+Debug
  
 toc_label: Contents
 toc: true
