@@ -13,6 +13,7 @@ Since I'm still studying, there can be wrong information. Please let me know if 
 - Game
 - Git & Github
 - Security
+- Tips
 
 ## ✨️ Blog link
 https://m-j1nx.github.io/M_J1nx.github.io/
