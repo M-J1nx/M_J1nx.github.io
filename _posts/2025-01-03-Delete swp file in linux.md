@@ -2,7 +2,7 @@
 title:  "Delete .swp file in linux"
 excerpt: "Let's delete .swp file when you're using linux."
 categories: 
-- Etc
+- Tips
 tags:
 - Theory
  
@@ -25,5 +25,5 @@ You can simply delete that. If you can’t find .swp file, try command below :
   cd /path/to/directory
   rm -i [swp file name] # Get confirm message before delete 
 
-## Why is it happened?
+### Why is it happened?
 If you use vim(vi) or Neovim, and if it closed unexpectly, it creates .swp file.

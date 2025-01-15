@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "M_J1nx Blog"
+    url: https://m-j1nx.github.io/M_J1nx.github.io/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -10,3 +10,22 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+sidebar-category:
+  - title: "Category"
+    children:
+    - title: "Algorithm"
+      url: "/Algorithm"
+    - title: "BackEnd"
+      url: "/BackEnd"
+    - title: "Cloud"
+      url: "/Cloud"
+    - title: "FrontEnd"
+      url: "/FrontEnd"
+    - title: "Game"
+      url: "/Game"
+    - title: "Git & Github"
+      url: "/Git&Github"
+    - title: "Security"
+      url: "/Security"
+    - title: "Tips"
+      url: "/Tips"
