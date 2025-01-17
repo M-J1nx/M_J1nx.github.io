@@ -1,7 +1,9 @@
 ---
 title: "Tips"
 layout: archive
-permalink: /Tips
+permalink: /Tips/
+toc: true
+toc_sticky: true
 ---
 
 
