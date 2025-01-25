@@ -1,3 +1,20 @@
+---
+title:  "Why can't I make contributions even if I did commit?"
+excerpt: "Introduce about some contributions rules in github."
+categories: 
+- Git & Github
+tags:
+- Theory
+ 
+toc_label: Contents
+toc: true
+toc_sticky: true
+ 
+date: 2025-01-25
+last_modified_at: 2025-01-25
+published: true
+---
+
 # Why can’t I make contributions even if I did commit?
 
 In github, there is **contributions** map which shows contributions of the year. 
