@@ -11,35 +11,35 @@ toc: true
 toc_sticky: true
  
 date: 2025-01-21
-last_modified_at: 2025-01-21
+last_modified_at: 2025-01-27
 published: true
 ---
 
-### 깃과 깃허브란?
+### What's Git&Github
 
-깃(Git) : 코드를 관리하기 위한 소프트웨어이자 도구. 로컬 환경에 Git이라는 소프트웨어를 설치하고 사용해야 한다. 
+Git : Software or tool to manage code. To use git, you should install software calling Git at your local environment.
 
-깃허브(Github) : 코드를 온라인에 저장할 수 있는 온라인(인터넷) 저장소. 다른 사람들과 협업도 가능해진다. 
+Github : Storage to save code online. You can cooperate with other people by using github. 
 
-그러나 Git은 CLI 형식 (Command Line Interface) 으로, 터미널과 같이 명령어를 통해서 코드를 관리해야 하기 때문에 CLI 환경에 익숙하지 않은 사람은 익숙해지기까지 시간이 다소 소요될 수 있다.
+However, Git is CLI(Command Line Interface), managing code through command like terminal, It can take time to get used to CLI environment for people who are not familier with CLI environment.
 
-따라서 CLI 환경에 익숙하지 않고, 빠른 깃허브 활용을 원한다면 **Github Desktop** 사용을 추천한다. 
+Therefore, if you are not used to CLI environment, and want to use git real quick, I recommend using **Github Desktop**.
 
-깃과 깃허브를 사용하기 위해서는 코드 에디터가 설치되어있다는 전제 하에 아래 세 가지가 필요하다. 
+To use git&github, we need three things below based on sumption you already have code editor such as visual studio code.
 
 1. git ([git download](https://git-scm.com/downloads))
-2. github 가입 ([github 홈페이지](https://github.com/github))
+2. Sign up for github ([github homepage](https://github.com/github))
 3. github desktop ([github desktop download](https://desktop.github.com/))
 
-### 깃의 기본 개념
+### Base concept of git 
 
-1. **Branch :** 현재 작업을 하고 있는 위치이자 작업의 줄기 
+1. **Branch :** Location of current work & Stem of work
 
-![Branch가 만들어지고 작업의 줄기가 존재함 ](https://prod-files-secure.s3.us-west-2.amazonaws.com/8a656925-fc0e-4de1-9947-61a6517e8bb1/b1a63d6c-f42d-4510-8cea-b31d72fd206d/image.png)
+![Branch has created and Stem of work exists ](https://prod-files-secure.s3.us-west-2.amazonaws.com/8a656925-fc0e-4de1-9947-61a6517e8bb1/b1a63d6c-f42d-4510-8cea-b31d72fd206d/image.png)
 
-Branch가 만들어지고 작업의 줄기가 존재함 
+Branch has created and Stem of work exists 
 
-깃에는 브랜치(branch=가지)라는 개념이 존재한다.
+There is concept called **Branch** at git.
 
 마치 하나의 나무가 가지를 뻗어나가듯이 작업을 관리하게 되는데, 각각의 브랜치는 작업 영역이 독립적이고, 브랜치끼리는 영향을 미치지 않는다. 
 
