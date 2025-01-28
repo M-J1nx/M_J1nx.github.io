@@ -41,7 +41,7 @@ Branch has created and Stem of work exists
 
 There is concept called **Branch** at git.
 
-마치 하나의 나무가 가지를 뻗어나가듯이 작업을 관리하게 되는데, 각각의 브랜치는 작업 영역이 독립적이고, 브랜치끼리는 영향을 미치지 않는다. 
+You can manage your work like one tree has many branches. Each branch's workspace is independent, and branches can't affect one another.
 
 가장 핵심 작업의 줄기가 중앙에 있는 줄기라고 할 때(흔히 master 브랜치 라 불림), 필요의 따라서 master 브랜치의 영향이 없도록 브랜치들을 만들어서 작업을 수행함 
 
