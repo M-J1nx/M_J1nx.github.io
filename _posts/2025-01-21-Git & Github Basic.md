@@ -33,7 +33,7 @@ To use git&github, we need three things below based on sumption you already have
 
 ### Base concept of git 
 
-1. **Branch :** Location of current work & Stem of work
+1. **Branch** : Location of current work & Stem of work
 
 ![Branch has created and Stem of work exists ](https://prod-files-secure.s3.us-west-2.amazonaws.com/8a656925-fc0e-4de1-9947-61a6517e8bb1/b1a63d6c-f42d-4510-8cea-b31d72fd206d/image.png)
 
@@ -43,31 +43,34 @@ There is concept called **Branch** at git.
 
 You can manage your work like one tree has many branches. Each branch's workspace is independent, and branches can't affect one another.
 
-가장 핵심 작업의 줄기가 중앙에 있는 줄기라고 할 때(흔히 master 브랜치 라 불림), 필요의 따라서 master 브랜치의 영향이 없도록 브랜치들을 만들어서 작업을 수행함 
+If main stem of the project is stem in the middle(It normally called as **master branch**.), you can make branches not to effect master branch whenever you need. 
 
-즉, 초록색 브랜치에서 새롭게 작업을 한다고 하더라도 핵심 작업의 브랜치나 보라색 브랜치에 변화를 주지 않는다. 
+Therefore, if you start new job in green branch, it doesn't effect main branch or purple branch. 
 
-1. **Merge** : Branch 들을 합치는 행위 
 
-앞서 우리는 중앙 작업인 마스터 브랜치를 두고, 브랜치를 나누어서 작업을 했다. 통상적으로 마스터 브랜치를 서비스로써 배포하기 때문에, 배포할 서비스의 기능을 업데이트 하기 위해서는 작업한 내용을 마스터 브랜치에 업데이트 해줘야 한다. 
+2. **Merge** : Combine branches  
 
-우리는 깃에서 브랜치를 마스터 브랜치에 병합시켜줌으로써 마스터 브랜치에 작업을 업데이트 해 준다. 
+We have master branch, which means main work, and work by dividing branches. We normally release master branch as total service, so if you want to update function of released service, you should update your new works in master branch.
 
-이 때 병합하는 것을 ‘머지한다’ 라고 표현한다.
+We update new works by combining branches into mater branch in git.
 
-※ 머지는 브랜치를 마스터 브랜치에 병합시키는 것 뿐만 아니라 브랜치들끼리 병합시키는 것도 가능하다. 
+We call combining action as **merge**. 
 
-1. **Commit** : 작업의 체크포인트 
+※ Merge is possible action not only for branches and mater branch, but also for branches each other.
 
-우리는 브랜치를 두고 작업을 할 것이다. 작업을 하다 보면 변경 사항이 생길 것이고, 변경된 상태를 어딘가에 저장해두고 작업을 이어나가고 싶을 수도 있을 것이다. 
+3. **Commit** : Checkpoint of works  
 
-이 경우, 우리는 깃에 작업을 커밋 해줌으로써 작업의 체크포인트를 생성할 수 있다.
+When you are working, there will be changes. You may want to save those changed states at somewhere and keep working.
 
-브랜치에서 작업을 하다가 작업을 커밋하면, 커밋한 시점의 작업이 브랜치에 반영 되고, 우리는 이것을 체크포인트처럼 사용할 수 있다. 즉, 원하는 커밋으로 브랜치의 상태를 되돌릴 수 있는 것이다. 
+In this case, we can make checkpoint of work by commiting our works to git.
 
-1. **Repository** : 작업의 저장소
+When you commit your works while you working in branch, works at commited point updated to branch, and we can use this as checkpoint. 
 
-우리는 커밋으로 작업을 업데이트하고, 머지로 작업들을 합칠 수 있으며, 브랜치로 작업을 관리할 수 있다.
+In other words, you can revert branch's state as you want.
+
+4. **Repository** : Storage of the work 
+
+We update works by commit, combine works by merge, manage work by branch.
 
 이런 작업들을 저장하는 것을 깃에서는 레포지토리라고 부르며, 대게 줄여서 레포라고 부른다. 
 
