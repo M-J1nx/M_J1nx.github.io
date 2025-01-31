@@ -11,7 +11,7 @@ toc: true
 toc_sticky: true
  
 date: 2025-01-21
-last_modified_at: 2025-01-27
+last_modified_at: 2025-01-31
 published: true
 ---
 
@@ -72,11 +72,11 @@ In other words, you can revert branch's state as you want.
 
 We update works by commit, combine works by merge, manage work by branch.
 
-이런 작업들을 저장하는 것을 깃에서는 레포지토리라고 부르며, 대게 줄여서 레포라고 부른다. 
+The place where we saving our works called repository, and we usually call this as **repo** in short.
 
-레포지토리는 컴퓨터 안의 로컬 폴더가 될 수도 있고, 깃허브나 다른 온라인 저장 공간이 될 수도 있다. 
+Repository can be local floder in your computer, and it also can be online storage like github.
 
-### 깃의 작업
+### Works of git 
 
 ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/8a656925-fc0e-4de1-9947-61a6517e8bb1/abe2631e-d382-4925-87f1-499defb88654/image.png)
 
