@@ -82,7 +82,7 @@ Repository can be local floder in your computer, and it also can be online stora
 
 - push
     
-    로컬 컴퓨터에서 작업하고, 작업을 커밋했을 때 만약 이를 깃허브에서 온라인으로 보기를 원하다면 푸시라는 작업을 해줘야 한다. 커밋한 작업을 온라인으로 올려주는 것이다. 
+    Work at local environment, 작업을 커밋했을 때 만약 이를 깃허브에서 온라인으로 보기를 원하다면 푸시라는 작업을 해줘야 한다. 커밋한 작업을 온라인으로 올려주는 것이다. 
     
 - pull
     
