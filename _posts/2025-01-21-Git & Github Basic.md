@@ -82,16 +82,16 @@ Repository can be local floder in your computer, and it also can be online stora
 
 - push
     
-    Work at local environment, 작업을 커밋했을 때 만약 이를 깃허브에서 온라인으로 보기를 원하다면 푸시라는 작업을 해줘야 한다. 커밋한 작업을 온라인으로 올려주는 것이다. 
+    Work at local environment, When you commit your work, and you want to see it in online through github, you should **push** the work. It update commited work in online.
     
 - pull
     
-    로컬 컴퓨터에서 작업할 때, 작업하고 있는 레포지토리의 상태를 받아오고 싶다면 pull을 해줘야 한다. 레포지토리를 당겨온다고 생각하면 된다.
+    When you work in local computer, and if you want to get working repository's state, you should **pull** the work. Think pulling repository to your local computer.
     
-    보통 깃허브에서 다른 사람과 온라인으로 함께 작업을 할 때, 다른 사람의 작업물을 받아오고 싶다면 pull을 해준다. 
+    When you work with other people at github, online, and if you want to get other people's work, you can pull the repository (In this case, other people's work should be pushed to repository you can work).
     
 - pull request
     
-    코드의 변경사항을 원본 코드에 병합하기 위해 제안하는 것을 의미한다. 즉, 병합하기 전에 해당 코드를 병합해도 되는지 물어보는 것이다. 
+    This suggests combining changed code into original code. In other word, asking before combine changed code.
     
-    일반적으로 마스터 브랜치에 머지 하기 전에 해당 과정을 거친다.
+    Normally, this stage should be taken before merge into master branch.
