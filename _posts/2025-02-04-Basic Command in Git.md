@@ -25,7 +25,7 @@ last_modified_at: 2025-02-04
 ## Track project
 
 `git status` : list which files are staged, unstaged, and untracked
-`git log` : show all commits, starting with newest
+`git log` : show all commits, and starting with newest
 
 ## Cloning and collaboration
 `git clone [url]` : clone a repository that already exists on GitHub, including all of the files, branches, and commits
