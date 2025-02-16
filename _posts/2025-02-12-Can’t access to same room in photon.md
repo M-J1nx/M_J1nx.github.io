@@ -24,4 +24,7 @@ Here is the solution:
 
 Window → Photon Unity Networking → Highlight server settings
 
-You can see `Fixed Region` box. Type **only one** region to fix region. Then, you’ll see your server works.
+You can see `Fixed Region` box. 
+
+Type **only one** region to fix region. 
+Then, you’ll see your server works.
