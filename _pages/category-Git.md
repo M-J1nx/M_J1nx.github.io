@@ -2,6 +2,8 @@
 title: "Git & Github"
 layout: archive
 permalink: /Git
+toc: true
+toc_sticky: true
 author_profile: true
 sidebar_main: true
 ---

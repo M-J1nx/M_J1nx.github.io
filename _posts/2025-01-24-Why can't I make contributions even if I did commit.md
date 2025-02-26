@@ -2,7 +2,7 @@
 title:  "Why can't I make contributions even if I did commit?"
 excerpt: "Introduce about some contributions rules in github."
 categories: 
-- Git&Github
+- Git
 tags:
 - Theory
  

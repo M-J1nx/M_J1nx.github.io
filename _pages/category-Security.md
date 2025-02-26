@@ -2,6 +2,10 @@
 title: "Security"
 layout: archive
 permalink: /Security
+toc: true
+toc_sticky: true
+author_profile: true
+sidebar_main: true
 ---
 
 
