@@ -325,6 +325,5 @@ defaults:
       related: true
       future: true
       mathjax: true
-      sidebar_main: true
       sidebar:
         nav: "sidebar-category"
