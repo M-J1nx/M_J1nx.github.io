@@ -324,6 +324,6 @@ defaults:
       share: true
       related: true
       future: true
-      mathjax: true
+      mathjax: # true
       sidebar:
         nav: "sidebar-category"
