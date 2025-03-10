@@ -1,7 +1,7 @@
 ---
-title: "Git&Github"
+title: "Git"
 layout: archive
-permalink: /git&github
+permalink: /Git
 toc: true
 toc_sticky: true
 author_profile: true
@@ -10,5 +10,5 @@ sidebar:
 ---
 
 
-{% assign posts = site.categories.Git&Github %}  
+{% assign posts = site.categories.Github %}  
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
