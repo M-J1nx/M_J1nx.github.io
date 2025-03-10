@@ -2,7 +2,7 @@
 title:  "Git & Github Basic"
 excerpt: "Basic information you should know if you want to cooperate with co-workers"
 categories: 
-- Git&Github
+- git&github
 tags:
 - Theory
  

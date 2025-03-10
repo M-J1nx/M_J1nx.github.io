@@ -1,5 +1,5 @@
 ---
-title: "Git&Github"
+title: "git&github"
 layout: archive
 permalink: /git&github
 toc: true
@@ -10,5 +10,5 @@ sidebar:
 ---
 
 
-{% assign posts = site.categories.Git&Github %}  
+{% assign posts = site.categories.git&github %}  
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
