@@ -1,7 +1,7 @@
 ---
 title: "Git&Github"
 layout: archive
-permalink: /Git&Github
+permalink: /git&github
 toc: true
 toc_sticky: true
 author_profile: true
