@@ -2,7 +2,7 @@
 title:  "Basic Command in Git"
 excerpt: "Basic commands that you'll often use in git."
 categories: 
-- Git
+- Git&Github
 tags:
 - Theory
  
