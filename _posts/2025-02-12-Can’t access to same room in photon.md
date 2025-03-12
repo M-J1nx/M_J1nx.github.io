@@ -2,7 +2,7 @@
 title:  "Can’t access to same room in photon"
 excerpt: "If you can't access to same room, here's the solution"
 categories: 
-- Unity
+- Game
 tags:
 - Theory
  
