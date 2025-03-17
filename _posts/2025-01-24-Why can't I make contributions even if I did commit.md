@@ -37,7 +37,6 @@ Following information should be matched with :
 After saving this, you can check that your commit is shown in contribution map.
 
 If you can’t see, please check if your commits meet the conditions from the following : 
-
 https://docs.github.com/ko/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/why-are-my-contributions-not-showing-up-on-my-profile
 
 - The email address used for the commits is associated with your account on GitHub.
