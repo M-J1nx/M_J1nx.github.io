@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "M_J1nx"
-  avatar           : "/assets/image/Memoji.jpg" # path of avatar image
+  avatar           : "/assets/image/portrait.png" # path of avatar image
   bio              : "Studying computer science & Making things.."
   location         : "Korea, Seoul"
   email            :
