@@ -25,7 +25,9 @@ sidebar-category:
         url: "/Game"
       - title: "Git"
         url: "/Git"
+      - title: "Machine Learning"
+        url: "/MachineLearning
       - title: "Security"
         url: "/Security"
       - title: "Tips"
-        url: "/Tips"
+        url: "/Tips
