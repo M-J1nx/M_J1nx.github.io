@@ -1,3 +1,4 @@
+---
 title:  "Basic concept of deep learning"
 excerpt: "What's deep learning? what it means?"
 categories: 
