@@ -29,7 +29,7 @@ First, you should find `.gitconfig` file. This would place where `Git` had been 
 
 You can find user infomation when you open it. 
 
-Following information should be matched with :
+Following information should be matched with:
 
 - name : github account name
 - email : github email
