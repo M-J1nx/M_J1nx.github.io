@@ -22,7 +22,7 @@ By using artificial neural network, we can get positive affects below :
 - Can be composed relatively easily
 
 ## Composition of arificial neural network
-Training model to minimize objective function
+**Training model to minimize objective function**
 
 Neural network is consisted by input layer, hidden layer and output layer.
 (But, if you count how many layers in neural network, input layer is not considered.)
