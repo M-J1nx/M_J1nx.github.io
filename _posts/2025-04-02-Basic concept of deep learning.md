@@ -36,5 +36,5 @@ Deep learning model is learned through four stages below :
 
 ## About back propagation
 - Forward propagation : add weight(w) and bias(b) to value from before layer and pass it to next layer
-=> Calculate and save variables from input layer to output layer
+= Calculate and save variables from input layer to output layer
 - Back propagation : Edit weight and bias to minimize cost function or loss function from propagation result
