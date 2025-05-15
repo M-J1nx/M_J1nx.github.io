@@ -40,7 +40,7 @@ This might be due to Google removing the "Less Secure App Access" option as of M
 
 ## Step 3: Save the App Password
 - Once created, the password will be displayed **only once**.  
-  ⚠️ **Save it securely**, as you won’t be able to view it again.
+  ⚠️ **Save it securely**, because you won’t be able to view it again.
 
 
 ---
@@ -54,4 +54,4 @@ Replace your Google account password in your email-sending service with this app
 - This method is more secure and aligns with Google’s updated security policies.
 - Ensure that your email-sending application or library supports app passwords.
 
-Now you’re ready to send emails securely using your Google account! 😊
+Now you’re ready to send emails securely using your Google account
