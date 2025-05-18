@@ -15,7 +15,7 @@ last_modified_at: 2025-01-31
 published: true
 ---
 
-### What's Git&Github
+## What's Git&Github
 
 Git : Software or tool to manage code. To use git, you should install software calling Git at your local environment.
 
@@ -31,7 +31,7 @@ To use git&github, we need three things below based on sumption you already have
 2. Sign up for github ([github homepage](https://github.com/github))
 3. github desktop ([github desktop download](https://desktop.github.com/))
 
-### Base concept of git 
+## Base concept of git 
 
 1. **Branch** : Location of current work & Stem of work
 
@@ -76,7 +76,7 @@ The place where we saving our works called repository, and we usually call this 
 
 Repository can be local floder in your computer, and it also can be online storage like github.
 
-### Works of git 
+## Works of git 
 
 ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/8a656925-fc0e-4de1-9947-61a6517e8bb1/abe2631e-d382-4925-87f1-499defb88654/image.png)
 
