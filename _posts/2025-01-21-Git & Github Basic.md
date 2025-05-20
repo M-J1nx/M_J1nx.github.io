@@ -35,7 +35,8 @@ To use git&github, we need three things below based on sumption you already have
 
 1. **Branch** : Location of current work & Stem of work
 
-![Branch has created and Stem of work exists ](https://prod-files-secure.s3.us-west-2.amazonaws.com/8a656925-fc0e-4de1-9947-61a6517e8bb1/b1a63d6c-f42d-4510-8cea-b31d72fd206d/image.png)
+![image](https://github.com/user-attachments/assets/13c07983-ddc9-44e8-ab71-268965d6472c)
+
 
 Branch has created and Stem of work exists 
 
