@@ -16,6 +16,7 @@ published: true
 ---
 
 ## What's Git&Github
+![image](https://github.com/user-attachments/assets/cc168769-08f1-411f-b3c1-5ef2b1f523fb)
 
 Git : Software or tool to manage code. To use git, you should install software calling Git at your local environment.
 
@@ -79,7 +80,8 @@ Repository can be local floder in your computer, and it also can be online stora
 
 ## Works of git 
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/8a656925-fc0e-4de1-9947-61a6517e8bb1/abe2631e-d382-4925-87f1-499defb88654/image.png)
+![image](https://github.com/user-attachments/assets/17eb6de6-7ea8-4e1c-8f24-be4c1a45076a)
+
 
 - push
     
