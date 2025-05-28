@@ -14,6 +14,8 @@ date: 2025-02-04
 last_modified_at: 2025-02-04
 ---
 
+If you are using git bash, here is list of commands that you are going to use very often : 
+
 ## Base commands
 
 `git init` : Initialize an existing directory as a Git repository.  
