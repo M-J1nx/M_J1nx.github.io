@@ -18,6 +18,8 @@ last_modified_at: 2025-09-03
 
 ---
 
+_Problem link : https://www.acmicpc.net/problem/1003_
+
 ## Problem
 
 Jaewon tries to build bridge across the river. There’re N sites on the west side of the river and M sites on the east side of it (N≤M). When building the bridge, only one bridge can be built in one sight. Jaewon wants to build many bridges as many as possible, so he tries to build N bridges. Write a program to find the number of cases in which bridges can be built when you say that bridges cannot overlap each other.
