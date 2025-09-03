@@ -18,7 +18,7 @@ last_modified_at: 2025-09-03
 
 ---
 
-_Problem link : https://www.acmicpc.net/problem/1003_
+_Problem link : https://www.acmicpc.net/problem/1010_
 
 ## Problem
 
