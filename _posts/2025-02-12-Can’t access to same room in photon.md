@@ -15,7 +15,6 @@ last_modified_at: 2025-02-12
 ---
 
 I’m developing match making system in Unity using Photon.
-
 But suddenly, I can’t access to same room even if I check that I’m accessing same room.
 
 ⚠️ This solution assume that you already have Photon in your project. 
