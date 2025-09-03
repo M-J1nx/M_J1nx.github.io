@@ -62,3 +62,4 @@ $nCm = \frac{n!}{m!*(n-m)!}$
 
 +In the answer code, common part is considered like below :
 
+<img width="1459" height="564" alt="image" src="https://github.com/user-attachments/assets/dad11556-0f6a-4487-9dbb-2802bb176d48" />
