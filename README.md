@@ -11,7 +11,7 @@
 - Cloud
 - FrontEnd
 - Game
-- Git & Github
+- Git
 - Security
 - Tips
 
