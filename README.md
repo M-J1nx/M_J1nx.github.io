@@ -7,12 +7,13 @@
 ## ✨️ Things that I'll post
 
 - Algorithm
+- Computer Science
 - BackEnd
-- Cloud
 - FrontEnd
+- Cloud
 - Game
-- Git
 - Security
+- Git
 - Tips
 
 ## ✨️ Blog link
